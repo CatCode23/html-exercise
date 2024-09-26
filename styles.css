@@ -1,3 +1,9 @@
 .fit-picture {
     width: 250px;
 }
+span.place {
+    color: #f00;
+}
+figure {
+    margin: 0;
+}
